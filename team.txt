@@ -1,2 +1,3 @@
-Leader: Idat
-Staf: - 
+Leader: Ihda 'Abidat
+Staf: Oce
+Done.
